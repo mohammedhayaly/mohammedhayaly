@@ -1,46 +1,30 @@
-### Hi there, I'm Mohammed Hayaly 👋
+<h1 align="center">Hi 👋, I'm Mohammed Hayaly</h1>
+<h3 align="center">I'm a passionate Frontend Web Developer and a proud graduate of the Re:Coded Frontend Bootcamp. I have a strong knack for creating user-friendly and visually appealing web experiences.</h3>
 
-I'm a passionate Frontend Web Developer and a proud graduate of the Re:Coded Frontend Bootcamp. I have a strong knack for creating user-friendly and visually appealing web experiences.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedhayaly&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedhayaly" /> </p>
 
-👀 **I'm interested in:**
-- developing responsive web applications.
-- Exploring the latest web development technologies and trends.
-- Solving real-world problems through code.
+- 🔭 project : [https://gravestone-gzihmh.vercel.app](https://gravestone-gzihmh.vercel.app)
 
-🌱 **Currently, I'm honing my skills in:**
-- **Next.js**: Building fast and SEO-friendly web applications.
-- **Responsive Web Design**: Ensuring seamless experiences across all devices.
+- 🌱 Currently, I'm honing my skills in: **Next.js: Building fast and SEO-friendly web applications.**
 
+- 👯 I'm open to collaboration on **Exciting web development projects.**
 
-**Technical Skills**
- HTML|CSS|Javascript|React|NextJS|Redux|Tailwind|
+- 👨‍💻 All of my projects are available at [https://portfolio-nextjs-mohammed-hayaly.vercel.app](https://portfolio-nextjs-mohammed-hayaly.vercel.app)
 
+- 👀 I'm interested in **developing responsive web applications, Exploring the latest web development technologies and trends , Solving real-world problems through code**
 
-💼 **I'm open to collaboration on:**
-- Exciting web development projects.
+- 📫 How to reach me **mohammedhayaly88@gmail.com contact me on +905458735379 (whatsapp) +9647713255561 (call)**
 
-📫 **You can reach me at:**
-- **Email**: [mohammedhayaly88@gmail.com]
-- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/mohammed-hayaly-74baaa270/)]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-hayaly-74baaa270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-hayaly-74baaa270/" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-**contact me on**
-+905458735379 (whatsapp) 
-+9647713255561 (call)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedhayaly&show_icons=true&locale=en&layout=compact" alt="mohammedhayaly" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedhayaly&show_icons=true&locale=en" alt="mohammedhayaly" /></p>
 
-**currant location**
-Iraq - Mosul
-
-
-
-
-
-
-Let's connect and create something amazing together!
-
-<!---
-mohammedhayaly/mohammedhayaly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. 
---->
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedhayaly&" alt="mohammedhayaly" /></p>
