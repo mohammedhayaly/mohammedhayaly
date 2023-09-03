@@ -21,7 +21,7 @@ I'm a passionate Frontend Web Developer and a proud graduate of the Re:Coded Fro
 
 📫 **You can reach me at:**
 - **Email**: [your@email.com](mohammedhayaly88@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/mohammed-hayaly-74baaa270/))
+- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/mohammed-hayaly-74baaa270/)]
 
 
 **contact me on**
